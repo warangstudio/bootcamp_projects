@@ -2,7 +2,7 @@
 Data science bootcamp batch 06
 We learn 10 spint during 4 month program.
 
-- Google Sheet
+- Spread Sheet
 - SQL Database
 - R Programming
 - Data Transformation
