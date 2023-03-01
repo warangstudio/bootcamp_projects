@@ -13,4 +13,4 @@ We learn 10 spint during 4 month program.
 - Essential Python for Data Analyst
 - Dashboard
 
-Badges:
+Badges: https://www.credly.com/users/warangkana-chaitong
