@@ -1,5 +1,5 @@
 # BOOTCAMP PROJECTS
-Data science bootcamp batch 06 wuth https://datarockie.com/
+Data science bootcamp batch 06 with https://datarockie.com/
 We learn 10 spint during 4 month program.
 
 - Spread Sheet
