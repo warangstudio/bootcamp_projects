@@ -1,8 +1,5 @@
 # BOOTCAMP PROJECTS
 Data science bootcamp batch 06 with datarockie
-
-You can learn more at https://datarockie.com/
-
 We learn 10 spint during 4 month program.
 
 - Spread Sheet
@@ -17,3 +14,5 @@ We learn 10 spint during 4 month program.
 - Dashboard
 
 Badges: https://www.credly.com/users/warangkana-chaitong
+
+You can learn more at https://datarockie.com/
